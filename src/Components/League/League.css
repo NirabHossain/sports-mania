@@ -1,0 +1,10 @@
+.league{
+    min-height: 300px;
+    border-radius: 10%;
+}
+.league img{
+    width: 300px;
+}
+.league>*{
+    margin-top: 10px;
+}
